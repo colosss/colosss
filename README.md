@@ -1,31 +1,27 @@
-# Привет, я Сергей — Python Backend Developer
+🧩 Основной стек
 
-Разрабатываю backend-сервисы на Python: FastAPI, gRPC, PostgreSQL, Redis, Docker, Kafka/RabbitMQ.
+Python · FastAPI · Flask · gRPC · PostgreSQL · Redis · SQLAlchemy · Alembic · Docker · Kafka · RabbitMQ · Celery · React/TypeScript
 
-## Основной стек
+🛠️ Что умею
+проектировать backend-сервисы и REST/gRPC API;
+работать с PostgreSQL, Redis, SQLAlchemy и миграциями Alembic;
+собирать проекты в Docker / Docker Compose;
+использовать брокеры сообщений и асинхронные задачи;
+писать понятную документацию и разворачивать проекты локально.
 
-Python, FastAPI, Flask, gRPC, SQLAlchemy, Alembic, PostgreSQL, Redis, Docker, Docker Compose, Kafka, RabbitMQ, Celery, React, TypeScript.
+🚀 Главные проекты
+KLoad — микросервисная форум-платформа
 
-## Ключевые проекты
+Форум с микросервисной архитектурой: API Gateway, auth/user/post/admin/task services, gRPC-взаимодействие, Kafka, RabbitMQ, Celery, PostgreSQL, Redis, Nginx, Docker Compose и frontend на React + TypeScript.
 
-### KLoad — микросервисная форум-платформа
-Fullstack/microservices проект с отдельными сервисами авторизации, пользователей, постов, задач, администрирования, API Gateway и frontend.
+Auth Service — JWT + Redis
 
-Стек: FastAPI, gRPC, PostgreSQL, Redis, Kafka, RabbitMQ, Docker Compose, Nginx, React, TypeScript.
+Сервис аутентификации и авторизации с access/refresh токенами, Redis whitelist/blacklist, ролями, PostgreSQL, Alembic и Docker.
 
-### Auth Service — JWT + Redis
-Сервис аутентификации и авторизации с access/refresh токенами, Redis whitelist/blacklist, ролями, PostgreSQL и Alembic.
+Notification Service
 
-### Notification Service
-Backend-сервис уведомлений на Flask, Celery, Redis, PostgreSQL и Docker Compose.
+Сервис асинхронной отправки уведомлений на Flask, Celery, Redis, PostgreSQL и Docker Compose.
 
-### Selectel Vacancies API
-FastAPI-приложение для парсинга вакансий, сохранения данных в PostgreSQL и работы с ними через CRUD API.
+📌 Сейчас развиваюсь в направлении
 
-## Сейчас развиваюсь в направлении
-
-- backend-разработка на Python;
-- микросервисная архитектура;
-- асинхронные задачи и брокеры сообщений;
-- Docker-инфраструктура;
-- ML/аналитика данных как дополнительное направление.
+Backend · микросервисы · распределённые системы · ML/Python
