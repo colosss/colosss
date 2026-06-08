@@ -1,6 +1,6 @@
 🧩 Основной стек
 
-Python · FastAPI · Flask · gRPC · PostgreSQL · Redis · SQLAlchemy · Alembic · Docker · Kafka · RabbitMQ · Celery · React/TypeScript
+Python | FastAPI | gRPC | PostgreSQL | Redis | SQLAlchemy | Alembic | Docker | Kafka | RabbitMQ | Celery | React/TypeScript
 
 🛠️ Что умею
 проектировать backend-сервисы и REST/gRPC API;
@@ -17,10 +17,6 @@ KLoad — микросервисная форум-платформа
 Auth Service — JWT + Redis
 
 Сервис аутентификации и авторизации с access/refresh токенами, Redis whitelist/blacklist, ролями, PostgreSQL, Alembic и Docker.
-
-Notification Service
-
-Сервис асинхронной отправки уведомлений на Flask, Celery, Redis, PostgreSQL и Docker Compose.
 
 📌 Сейчас развиваюсь в направлении
 
