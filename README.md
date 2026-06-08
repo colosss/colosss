@@ -10,7 +10,7 @@ Python | FastAPI | gRPC | PostgreSQL | Redis | SQLAlchemy | Alembic | Docker | K
 писать понятную документацию и разворачивать проекты локально.
 
 🚀 Главные проекты
-KLoad — микросервисная форум-платформа
+KLoad  микросервисная форум-платформа
 
 Форум с микросервисной архитектурой: API Gateway, auth/user/post/admin/task services, gRPC-взаимодействие, Kafka, RabbitMQ, Celery, PostgreSQL, Redis, Nginx, Docker Compose и frontend на React + TypeScript.
 
@@ -20,4 +20,4 @@ Auth Service — JWT + Redis
 
 📌 Сейчас развиваюсь в направлении
 
-Backend · микросервисы · распределённые системы · ML/Python
+Backend | микросервисы | распределённые системы | ML/Python
